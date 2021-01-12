@@ -1,9 +1,9 @@
 # PWA-budget-tracker
 
 ![license badge](https://img.shields.io/badge/license-MIT-brightgreen)
-<img src="Develop/public/pwalogo.svg" width="10%" alt="PWA log">
+<img src="public/pwalogo.svg" width="10%" alt="PWA log">
 
-![app screenshot](Develop/public/PWA-budget-tracker-app-screenshot1.png)
+![app screenshot](public/PWA-budget-tracker-app-screenshot1.png)
 
 A progressive web app that allows you to track your personal budget on a daily basis. You can add or remove funds (transactions) with data being stored in a cloud NoSQL dB. A total over time line chart is provided to allow visual tracking of account historical balance. As this is a webapp and in the event your internet connection is disrupted, you can still continue to use the app offline. Whenever the connection is restored, cached data is then immediately pushed to the dB. Mongo DB with an express server in node.js is used to persist data while mongoose is used as an ODM for data modelling. IndexedDB is used for persisting data offline in the browser.
     
