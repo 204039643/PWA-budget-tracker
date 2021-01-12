@@ -1,7 +1,7 @@
 # PWA-budget-tracker
 
 ![license badge](https://img.shields.io/badge/license-MIT-brightgreen)
-<img src="public/pwalogo.svg" width="10%" alt="PWA log">
+<img src="public/pwalogo.svg" width="8%" alt="PWA log">
 
 ![app screenshot](public/PWA-budget-tracker-app-screenshot1.png)
 
